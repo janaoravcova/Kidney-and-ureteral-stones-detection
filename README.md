@@ -23,6 +23,9 @@ Details of the model are available in file model.py
 ### Dataloader
 Loading the extracted candidates is described by dataset.py
 
+### Weights
+Weights are present in this repository.
+
 ## CenterNet
 
 ### Data
@@ -34,3 +37,5 @@ To run detection, run Detection.py. Specify path to pretrained model and data in
 ### Training
 To train the model, first specify path to data and labels in custom_dataset.py file. Then to train the model with predifined parameters run python train.py. 
 
+### Weights
+Weights are available on this link: https://drive.google.com/file/d/1VlDFQKj2sy0-7P6gHbjekKZRe6Ngt9n7/view?usp=sharing
