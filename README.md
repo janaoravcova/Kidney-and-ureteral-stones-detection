@@ -22,3 +22,15 @@ Details of the model are available in file model.py
 
 ### Dataloader
 Loading the extracted candidates is described by dataset.py
+
+##CenterNet
+
+### Data
+Data was provided from private source, therefore can't be shared in any way. Model was trained on non-contrast abdominal CT scans
+
+### Detection
+To run detection, run Detection.py. Specify path to pretrained model and data in code.
+
+### Training
+To train the model, first specify path to data and labels in custom_dataset.py file. Then to train the model with predifined parameters run python train.py. 
+
