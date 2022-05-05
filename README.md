@@ -23,7 +23,7 @@ Details of the model are available in file model.py
 ### Dataloader
 Loading the extracted candidates is described by dataset.py
 
-##CenterNet
+## CenterNet
 
 ### Data
 Data was provided from private source, therefore can't be shared in any way. Model was trained on non-contrast abdominal CT scans
